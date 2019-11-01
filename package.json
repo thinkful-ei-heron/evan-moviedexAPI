@@ -1,5 +1,5 @@
 {
-  "name": "evan-larry-moviedexAPI",
+  "name": "evan-moviedexAPI",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinkful-ei-heron/evan-larry-moviedexAPI.git"
+    "url": "git+https://github.com/thinkful-ei-heron/evan-moviedexAPI.git"
   },
   "keywords": [],
+  "engines": {
+    "node": "10.16.3"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thinkful-ei-heron/evan-larry-moviedexAPI/issues"
+    "url": "https://github.com/thinkful-ei-heron/evan-moviedexAPI/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-heron/evan-larry-moviedexAPI#readme",
+  "homepage": "https://github.com/thinkful-ei-heron/evan-moviedexAPI#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
